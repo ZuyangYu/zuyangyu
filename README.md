@@ -60,7 +60,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-ten-nu-85.vercel.app/api?username=ZuyangYu&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00B8D4&text_color=8B949E&icon_color=E100FF"
+    src="https://github-readme-stats-nu-one-47.vercel.app/api?username=ZuyangYu&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00B8D4&text_color=8B949E&icon_color=E100FF"
     alt="Zuyang Yu's GitHub stats"
     height="165"
   />
