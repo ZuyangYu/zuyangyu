@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  专注于硬件工程，用 AI 构建智能知识工具<br />
-  Focused on hardware engineering and building intelligent AI-powered tooling.
+  专注于 AI 应用与智能知识工具<br />
+  Focused on AI applications and intelligent knowledge tooling.
 </p>
 
 <p align="center">
@@ -36,7 +36,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,git,linux,docker,bash,vscode,github,postgres,md&perline=10&theme=dark" alt="My Skills" />
   </a>
-  <img src="https://img.shields.io/badge/FPGA-7C4DFF?style=flat-square&logo=amd&logoColor=white" alt="FPGA" />
 </p>
 
 ## Featured Projects
