@@ -22,12 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=ZuyangYu&label=PROFILE+VIEWS&color=00b8d4&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ZuyangYu&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophy" />
-  </a>
-</p>
-
 ---
 
 ## About Me
@@ -40,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,bash,vscode,github,postgres,md&perline=5&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,bash,vscode,github,postgres,md,fpga&perline=10&theme=dark" alt="My Skills" />
   </a>
 </p>
 
