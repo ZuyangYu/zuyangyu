@@ -2,14 +2,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=900&color=00B8D4&center=true&vCenter=true&width=680&height=45&lines=Hardware+%C3%97+AI+Developer;EDA+%C2%B7+Automation+%C2%B7+Knowledge+Base;Turning+engineering+ideas+into+practical+tools"
-    alt="Hardware × AI Developer — EDA, Automation and Knowledge Base"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=900&color=00B8D4&center=true&vCenter=true&width=680&height=45&lines=Hardware+%C3%97+AI+Developer;Knowledge+Base+%C2%B7+Data+Foundation;Turning+engineering+ideas+into+practical+tools"
+    alt="Hardware × AI Developer — Knowledge Base and Data Foundation"
   />
 </p>
 
 <p align="center">
-  专注于硬件工程、EDA 自动化与 AI 知识工具<br />
-  Focused on hardware engineering, EDA automation, and practical AI tooling.
+  专注于硬件工程，用 AI 构建智能知识工具<br />
+  Focused on hardware engineering and building intelligent AI-powered tooling.
 </p>
 
 <p align="center">
