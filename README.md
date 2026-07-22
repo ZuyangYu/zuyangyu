@@ -22,6 +22,12 @@
   <img src="https://komarev.com/ghpvc/?username=ZuyangYu&label=PROFILE+VIEWS&color=00b8d4&style=for-the-badge" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ZuyangYu&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophy" />
+  </a>
+</p>
+
 ---
 
 ## About Me
@@ -32,14 +38,10 @@
 
 ## Tech & Focus
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0A0E27?style=flat-square&logo=python&logoColor=00FFE1" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-0A0E27?style=flat-square&logo=git&logoColor=00FFE1" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-0A0E27?style=flat-square&logo=linux&logoColor=00FFE1" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-0A0E27?style=flat-square&logo=docker&logoColor=00FFE1" alt="Docker" />
-  <img src="https://img.shields.io/badge/Hardware_Engineering-7C4DFF?style=flat-square" alt="Hardware Engineering" />
-  <img src="https://img.shields.io/badge/EDA_%26_Netlists-7C4DFF?style=flat-square" alt="EDA and Netlists" />
-  <img src="https://img.shields.io/badge/AI_%26_LLM-7C4DFF?style=flat-square" alt="AI and LLM" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,bash,vscode,github,postgres,md&perline=5&theme=dark" alt="My Skills" />
+  </a>
 </p>
 
 ## Featured Projects
@@ -73,9 +75,11 @@
   />
 </picture>
 
----
-
 <p align="center">
   <strong>Build with curiosity. Engineer with evidence.</strong><br />
   <sub>Thanks for visiting — feel free to explore my repositories or get in touch.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="footer" />
 </p>
