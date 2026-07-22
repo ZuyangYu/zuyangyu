@@ -34,8 +34,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,bash,vscode,github,postgres,md,fpga&perline=10&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,bash,vscode,github,postgres,md&perline=10&theme=dark" alt="My Skills" />
   </a>
+  <img src="https://img.shields.io/badge/FPGA-7C4DFF?style=flat-square&logo=amd&logoColor=white" alt="FPGA" />
 </p>
 
 ## Featured Projects
