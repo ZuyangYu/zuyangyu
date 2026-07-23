@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/公众号-NEXOM_触联AI_Nexus_Axon_Rom-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Official Account" />
   <br />
   <sub>聚焦 AI 讯息、软硬件提效应用落地</sub>
+  <br />
+  <img src="./qrcode-wechat.jpeg" alt="NEXOM 公众号二维码" width="120" />
 </p>
 
 ---
