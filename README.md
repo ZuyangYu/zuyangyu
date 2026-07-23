@@ -54,7 +54,7 @@
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
+    src="./profile-3d-contrib/profile-lego.svg"
     alt="3D contribution calendar"
     width="600"
   />
