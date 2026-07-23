@@ -27,7 +27,6 @@
   <br />
   <img src="./qrcode-wechat.jpeg" alt="NEXOM 公众号二维码" width="120" />
 </p>
-
 ---
 
 ## About Me
