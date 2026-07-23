@@ -25,8 +25,9 @@
   <br />
   <sub>聚焦 AI 讯息、软硬件提效应用落地</sub>
   <br />
-  <img src="./qrcode-wechat.jpeg" alt="NEXOM 公众号二维码" width="120" />
+  <img src="./qrcode-wechat.jpeg" alt="NEXOM 公众号二维码" width="150" />
 </p>
+
 ---
 
 ## About Me
