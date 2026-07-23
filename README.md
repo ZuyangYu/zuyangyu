@@ -20,6 +20,10 @@
     <img src="https://img.shields.io/badge/Email-7C4DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ZuyangYu&label=PROFILE+VIEWS&color=00b8d4&style=for-the-badge" alt="Profile views" />
+  <br />
+  <img src="https://img.shields.io/badge/公众号-NEXOM_触联AI_Nexus_Axon_Rom-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Official Account" />
+  <br />
+  <sub>聚焦 AI 讯息、软硬件提效应用落地</sub>
 </p>
 
 ---
